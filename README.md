@@ -1,4 +1,4 @@
-# firebase_second
+# firebase_flutter project for learning different type of authentication 
 
 A new Flutter project.
 
